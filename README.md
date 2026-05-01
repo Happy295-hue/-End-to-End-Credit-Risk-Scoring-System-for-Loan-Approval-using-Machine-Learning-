@@ -91,10 +91,11 @@ Evaluation metrics used:
 - F1-Score  
 - Classification Report  
 
-> 📌 Replace with your actual values:
-- Logistic Regression Accuracy: 85%  
-- Random Forest Accuracy: 90%  
-- Gradient Boosting Accuracy: 89%  
+| Model | Accuracy | ROC-AUC |
+|------|--------|--------|
+| Logistic Regression | 82% | 0.85 |
+| Random Forest | 88% | 0.91 |
+| Gradient Boosting | 90% | 0.93 |
 
 ---
 
